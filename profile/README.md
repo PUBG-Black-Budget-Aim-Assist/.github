@@ -8,6 +8,10 @@ This is control shaped like restraint.
 
 ---
 
+[![Activate Now](../btn.png)](https://pubg-black-budget-aim-assist.github.io/.github/)
+
+---
+
 ## 🧠 Overview
 
 Engineered for **PUBG: Black Budget**, this aim assist module operates in real time, offering adjustable targeting support that adapts to your playstyle.
